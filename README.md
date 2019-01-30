@@ -1,1 +1,1 @@
-# uncc-titanic-ml-demo
+# uncc-titanic-ml-starter
